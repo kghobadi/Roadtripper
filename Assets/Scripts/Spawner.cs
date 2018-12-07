@@ -26,7 +26,7 @@ public class Spawner : MonoBehaviour {
 
             spawnTimer = spawnFrequency + Random.Range(-5, 5);
 
-            Debug.Log("spawned" + spawnableObjects[randomSpawn].name);
+            Debug.Log("spawned " + spawnableObjects[randomSpawn].name);
         }
 	}
 }

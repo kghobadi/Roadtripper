@@ -9,6 +9,7 @@ TagManager:
   - Destroyer
   - Prop
   - Spawner
+  - FocalPoint
   layers:
   - Default
   - TransparentFX
